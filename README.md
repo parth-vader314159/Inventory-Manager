@@ -1,1 +1,1 @@
-Simple Inventory Manager System made using HTML, CSS & JS frontend and php frontend.
+Simple Inventory Manager System made using HTML, CSS & JS frontend and php backend.
